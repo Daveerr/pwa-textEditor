@@ -1,0 +1,18 @@
+{
+  "icons": [
+    {
+      "src": "auto/assets/icons/icon_96x96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Text Editor App",
+  "short_name": "JATE",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "./",
+  "description": "Just Another Text Editor",
+  "background_color": "",
+  "theme_color": "",
+  "public_path": "./"
+}
